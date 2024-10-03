@@ -1,6 +1,4 @@
-
-
-Hey, I am Faizal Khan
+👋 Hi, I'm Faizal Khan
 👩‍💻 About Me :
 👋 I am a Frontend and Backend Developer with over 5.9 years of experience building web applications.
 
