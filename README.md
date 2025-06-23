@@ -9,7 +9,8 @@
     - **Backend:** Node.js, Sails.js, MongoDB, Express.js
 
 ### Currently Working On:
-- I am currently working on developing Trivy scanner marketplace extensions for IDEs and CI/CD platforms, including the Trivy VSCode extension and Trivy Azure Pipelines task. My role involves enhancing security scanning workflows while leveraging my expertise in Angular, React, Next.js, Cypress, and Node.js to build scalable and high-performance applications. Additionally, I work with AWS, Docker, and MongoDB, ensuring seamless integration and deployment. I am passionate about optimizing frontend experiences, improving automation, and staying at the forefront of emerging technologies.
+- Frontend Engineer | Full-Stack Capable
+Experienced in building scalable web applications using Angular, React, and Node.js. Proficient in modern frontend frameworks (Ngrx, Redux, RxJS) and backend technologies (Sails.js, Express.js, MongoDB), with exposure to cloud and DevOps tools like AWS, Azure, Docker, Jenkins, and Sonar.
 
 📫 Let's connect: 📧 khanfaizal813@gmail.com
 
