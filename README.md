@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Faizal Khan
 ## 👩‍💻 About Me :
-👋 I am a Frontend and Backend Developer with over 6 years of experience building web applications.
+👋 I am a Senior Full Stack Engineer with 6+ years of experience delivering real-world applications across SaaS, FinTech, and enterprise platforms.
 
-🔧 Building Scalable Web Apps for Startups and Companies
+🔧 Building Scalable, Production-Ready Web & AI Systemsfor Startups and Companies
 
 ### 🚀 My Skills Include:
     - **Frontend:** Angular, React.js, Next.js, Ngrx, Redux, Jest, HTML/CSS, Bootstrap, RxJS, TypeScript, JavaScript
